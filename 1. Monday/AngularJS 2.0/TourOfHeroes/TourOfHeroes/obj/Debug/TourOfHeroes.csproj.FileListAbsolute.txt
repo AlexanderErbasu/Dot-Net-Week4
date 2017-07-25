@@ -1,0 +1,5 @@
+C:\Users\alexandru.erbasu\Documents\Week 5\1. Monday\AngularJS 2.0\TourOfHeroes\TourOfHeroes\bin\Debug\TourOfHeroes.dll
+C:\Users\alexandru.erbasu\Documents\Week 5\1. Monday\AngularJS 2.0\TourOfHeroes\TourOfHeroes\bin\Debug\TourOfHeroes.pdb
+C:\Users\alexandru.erbasu\Documents\Week 5\1. Monday\AngularJS 2.0\TourOfHeroes\TourOfHeroes\obj\Debug\TourOfHeroes.csprojResolveAssemblyReference.cache
+C:\Users\alexandru.erbasu\Documents\Week 5\1. Monday\AngularJS 2.0\TourOfHeroes\TourOfHeroes\obj\Debug\TourOfHeroes.dll
+C:\Users\alexandru.erbasu\Documents\Week 5\1. Monday\AngularJS 2.0\TourOfHeroes\TourOfHeroes\obj\Debug\TourOfHeroes.pdb
